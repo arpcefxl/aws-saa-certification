@@ -1,0 +1,2 @@
+#Great catalog of launchable solutions in AWS:
+https://aws.amazon.com/solutions/
